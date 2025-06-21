@@ -1,38 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
-<h3 align="center">aka <strong>egydevol</strong> — a passionate self-taught developer who loves solving problems through code.</h3>
+# 👋 Hi, I'm Mohamed Ibrahim
+
+### 🧑‍💻 Username: `egydevol`  
+Self-taught developer who codes with purpose and builds with passion.
 
 ---
 
-### 💻 Languages & Tools:
-- 🐍 Python — Automation, bots, scripts
-- 🌐 HTML & CSS — Responsive web design
-- 🧠 JavaScript — Frontend logic and effects
-- 🐘 PHP — Backend development and forms
-- 🎨 CSS — Styling and animation
+## 🧠 About Me
+
+- 🔭 I’m currently working on web development & automation projects  
+- 🌱 I’m learning advanced Python techniques and full-stack tools  
+- 🛠 I work mainly with:
+  - **Python** for scripting & bots  
+  - **HTML / CSS / JS** for front-end  
+  - **PHP** for server-side logic  
+- ⚡ I love solving problems with clean, simple code
 
 ---
 
-### 🔧 What I Do:
-- ✨ Build websites using HTML, CSS, JS, and PHP
-- 🤖 Create automation tools & bots in Python
-- 💡 Learn new tools and build real-world projects
-- 🎯 Focus on writing clean, maintainable code
+## 💻 Tech Stack
+
+| Language  | Use Case                  |
+|-----------|---------------------------|
+| Python 🐍 | Automation, scripting      |
+| PHP 🐘    | Backend development        |
+| HTML 🧱   | Structure of web pages     |
+| CSS 🎨    | Styling and animations     |
+| JS ⚡     | Interactivity and logic    |
 
 ---
 
-### 📫 Contact Me:
-- 📧 Email: [ddjr3483@gmail.com](mailto:ddjr3483@gmail.com)
-- 💬 Telegram: [@uxvsa](https://t.me/uxvsa)
-- 💻 GitHub: [@egydevol](https://github.com/egydevol)
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=egydevol&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egydevol&layout=compact&theme=gruvbox)
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=egydevol&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=egydevol&theme=tokyonight" />
-</p>
+## 📬 Contact Me
+
+- 📧 Email: [ddjr3483@gmail.com](mailto:ddjr3483@gmail.com)  
+- 💬 Telegram: [@uxvsa](https://t.me/uxvsa)  
+- 🐙 GitHub: [github.com/egydevol](https://github.com/egydevol)
 
 ---
 
-> 🚀 *"Turning ideas into code. One script at a time."*
+> *"Code it simple. Make it work. Make it clean."*
